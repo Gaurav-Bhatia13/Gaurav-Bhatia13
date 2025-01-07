@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Gaurav-Bhatia13. I am a Finar Year Petroleum Enginnering Undergraduate Student at RGIPT.
+- 👋 Hi, I’m @Gaurav-Bhatia13.
 - 👀 I’m interested in Data Science and Machine Learning.
-- 🌱 I’m open for internships or full time job roles.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me ... You can reach me through my email id - gauravvbhatiaa@gmail.com
 
